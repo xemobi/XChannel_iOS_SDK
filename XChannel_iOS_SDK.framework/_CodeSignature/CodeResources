@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/XChannel_iOS_SDK-umbrella.h</key>
 		<data>
-		1fz/w20BG69mpyu+mN0s2ujEuFg=
+		tLKBwvRzycXnpokiCwvFyr5zpak=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -136,11 +136,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1fz/w20BG69mpyu+mN0s2ujEuFg=
+			tLKBwvRzycXnpokiCwvFyr5zpak=
 			</data>
 			<key>hash2</key>
 			<data>
-			CzVb8NGRknRmTf6Izf9TW0pChCKJf07WUXOUS0uPilw=
+			sZmYcwdsMyp7B1H/cOlu7kR77il0jzaoWMo7RfN8050=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
